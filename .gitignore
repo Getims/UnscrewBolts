@@ -57,6 +57,7 @@ ExportedObj/
 *.log
 .idea/
 /**/[Tt]emp.meta
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta
