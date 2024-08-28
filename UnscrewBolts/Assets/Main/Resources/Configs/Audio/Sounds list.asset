@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48c58f889298428287340e7cef0b56e6, type: 3}
+  m_Name: Sounds list
+  m_EditorClassIdentifier: 
+  FileName: Sounds list
+  _menuBackgroundMusic:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: bbac4b1769870744fbe5a62729ace92c, type: 3}
+    _soundPercent: 1
+  _gameBackgroundMusic:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: a6323257d63f20a48881df942e6f8492, type: 3}
+    _soundPercent: 1
+  _boltChoose:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 095e492cd186f444eadaad3a6a33407d, type: 3}
+    _soundPercent: 1
+  _boltPlace:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: dee0aec12b21d8546b3cde2138e83601, type: 3}
+    _soundPercent: 1
+  _boltCantPlace:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 9c1d47bac8610df49888f78e1fd8ab80, type: 3}
+    _soundPercent: 1
+  _boltDestroy:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: a3b8ea6fccae10f4db3a465c2a541945, type: 3}
+    _soundPercent: 1
+  _gameElementHit:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 59df28bb748dbc042bd3fabf2e564f8e, type: 3}
+    _soundPercent: 1
+  _bombExplosion:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: de45d3f614ae0fe49b520309f1bf77d8, type: 3}
+    _soundPercent: 1
+  _buttonClick:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 2f07f68248d193c4d812a33fe6c7e687, type: 3}
+    _soundPercent: 1
+  _menuOpen:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 72b2c7af676a46840a10416a47a161c6, type: 3}
+    _soundPercent: 0.5
+  _levelFail:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: f5d9a5fa66c43774490e55bd6ff3b92e, type: 3}
+    _soundPercent: 1
+  _levelWin:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 58960d9e9c1fca34c9a9121f6c6c8771, type: 3}
+    _soundPercent: 1
+  _hardModeStart:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 9909b6bb752daf44da3a9f3c6dddf5b4, type: 3}
+    _soundPercent: 0.5
+  _coinsFly:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 055335c4f33c50a4a8656f3148ba36b7, type: 3}
+    _soundPercent: 0.8
+  _coinsDrop:
+    _isDisabled: 0
+    _audioClip: {fileID: 8300000, guid: 88d2845cdd43a284eba7917734bce4e6, type: 3}
+    _soundPercent: 1
